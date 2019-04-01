@@ -1,5 +1,9 @@
 # Web-ext
 
+Build of official support of `args` feature.
+> Changes were merged in PR - https://github.com/mozilla/web-ext/pull/1563
+> Waiting for release v3.1 - https://github.com/mozilla/web-ext/projects/3
+
 This is a command line tool to help build, run, and test
 [WebExtensions](https://wiki.mozilla.org/WebExtensions).
 
