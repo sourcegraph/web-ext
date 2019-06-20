@@ -1,5 +1,7 @@
 # Web-ext
 
+Forked by Sourcegraph from https://github.com/denar90/web-ext/tree/build-args-feature
+
 Build of official support of `args` feature.
 > Changes were merged in PR - https://github.com/mozilla/web-ext/pull/1563
 > Waiting for release v3.1 - https://github.com/mozilla/web-ext/projects/3

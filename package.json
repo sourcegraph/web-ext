@@ -1,6 +1,6 @@
 {
-  "name": "web-ext",
-  "version": "3.0.0",
+  "name": "@sourcegraph/web-ext",
+  "version": "3.0.0-fork.1",
   "description": "A command line tool to help build, run, and test web extensions",
   "main": "dist/web-ext.js",
   "engines": {
@@ -28,7 +28,7 @@
   "homepage": "https://github.com/mozilla/web-ext",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mozilla/web-ext.git"
+    "url": "https://github.com/sourcegraph/web-ext.git"
   },
   "bugs": {
     "url": "http://github.com/mozilla/web-ext/issues"
